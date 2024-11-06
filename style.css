@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(135deg, rgba(5, 24, 194, 0.781) 40%, rgba(14, 13, 14, 0.829) 30%) ;
+  }
+.container-main{
+  
+    margin-top: 10rem;
+}
+.check{
+  color: white;
+  font-size: 2rem;
+}
+.range-slider{
+  color: rgb(22, 89, 235);
+  width: 100%;
+  background-color: rgb(45, 24, 226);
+  font-size: 3rem;
+}
+.indicator {
+  /* margin-right:12px ; */
+  width:1.5rem;
+  height:1.5rem;
+  margin-top: 10px;
+  border-radius:50%;
+}
+.checkbtn{
+  /* line-height: 100px; */
+ margin-left: 10px;
+}
+/* .text-strrength{
+  margin-left: 10px;
+
+} */
+.text-genrator{
+  margin: 15px;
+}
+.buji{
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.2s ease;
+  color: white;
+  background-color: rgb(9, 38, 202);
+}
+.buji:hover{
+background-color: rgb(10, 10, 139);
+}
+.tecxt{
+  padding-top: 16px;
+  padding-bottom: 10px;
+}
